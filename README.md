@@ -1,5 +1,5 @@
 # Shell_Project
-The code implements basic functionalities of OS like
+The code implements basic functionalities of OS like <br />
 1.Displaying command prompts <br />
 2.cd,pwd,echo <br />
 3.ls command <br />
